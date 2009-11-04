@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2839
+
+QuickFixHighlight highlights lines that have quickfix errors defined for them.
+
+A screenshot can be found at http://miffe.org/wiki/Blog/QuickFixHighlight/
